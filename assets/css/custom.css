@@ -3,7 +3,7 @@
 }
 
 #map {
-    height: 180px;
+    min-height: 300px;
 }
 
 .contact {
