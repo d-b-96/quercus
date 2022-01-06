@@ -9,3 +9,7 @@
 .contact {
     padding-bottom: 6em !important;
 }
+
+.text-left {
+    text-align:left;
+}
