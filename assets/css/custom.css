@@ -1,5 +1,10 @@
-#logo-landing {
+/* #logo-landing {
     max-width: 150px;
+} */
+
+#logo-landing {
+    max-width: 200px;
+    margin-bottom: 20px;
 }
 
 #map {
@@ -11,5 +16,5 @@
 }
 
 .text-left {
-    text-align:left;
+    text-align: left;
 }
