@@ -2824,7 +2824,7 @@ button:disabled,
 	background: #fff;
 }
 
-.main.style2 {	
+.main.style2 {
 	background-color: #333;
 	color: rgba(255, 255, 255, 0.75);
 	background-attachment: fixed, fixed;
@@ -2934,8 +2934,15 @@ button:disabled,
 	left: 0;
 	height: 100%;
 	width: 100%;
-	opacity: 0.3;
-	background-image: url("../../images/landing.jpg");
+	opacity: 0.35;
+	background-image: url("../../images/landing\ -\ Copy.jpg");
+	/* background-image: url("../../images/landing.jpg"); */
+	background-repeat: no-repeat;
+
+	background-attachment: fixed, fixed, fixed;
+	background-position: top left, center center, center center;
+	background-size: cover, cover, cover;
+	overflow: hidden;
 }
 
 #header a {

@@ -1,11 +1,14 @@
-/* #logo-landing {
-    max-width: 150px;
-} */
-
+/* voorstel 1 */
 #logo-landing {
-    max-width: 200px;
+    max-width: 180px;
     margin-bottom: 20px;
 }
+
+/* voorstel 2 */
+/* #logo-landing {
+    max-width: 350px;
+    margin-bottom: 20px;
+} */
 
 #map {
     min-height: 300px;
@@ -17,4 +20,8 @@
 
 .text-left {
     text-align: left;
+}
+
+ul li {
+    margin-bottom:20px;
 }
